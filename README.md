@@ -5,15 +5,10 @@ This project aims to Analyze and Predict salaries from Glassdoor Job Data.
 Using a rich set of job attributes (such as job title, location, company size, and more), we:
 
 ✅ Performed extensive Exploratory Data Analysis (EDA) (univariate, bivariate, multivariate)
-
 ✅ Handled missing values, outliers, and applied encoding & scaling
-
 ✅ Built and evaluated Multiple Machine Learning models
-
 ✅ Performed Hyperparameter Tuning and Model Validation (CV)
-
 ✅ Finalized Random Forest Regressor as the best model for salaries’ prediction
-
 ✅ Derived insightful answers to key questions:
 
 How salaries vary by job position (e.g., Data Scientist vs DevOps Engineer).
